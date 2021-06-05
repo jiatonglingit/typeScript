@@ -5,6 +5,7 @@
 # typescript 编译选项
 
 <!--
+https://www.tslang.cn/docs/handbook/compiler-options.html
  -- allowJs = false：js 文件也编译
 -- allowUnreachableCode = false：不可能执行的代码要不要报错
 -- allowUnusedLabels = false：没有用到的 label 要不要报错
